@@ -46,7 +46,7 @@ export default function Footer()
                     </div>
                 </div>
                 <div className="py-6 px-4 bg-neutral-900 md:flex md:items-center md:justify-between">
-                    <span className="text-sm text-gray-300 sm:text-center">© 2022 <a href="#">R3D4NG3L</a>. All Rights Reserved.
+                    <span className="text-sm text-gray-300 sm:text-center">© 2024 <a href="#">KevinVH</a>. All Rights Reserved.
                     </span>
                     <div className="flex mt-4 space-x-6 sm:justify-center md:mt-0">
                         <a href="#" className="text-gray-400 hover:text-white">
