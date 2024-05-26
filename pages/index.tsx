@@ -10,13 +10,6 @@ import Section8 from "./homepageComponents/section8.js";
 import Section9 from "./homepageComponents/section9.js";
 import Footer from "./homepageComponents/footer.js";
 
-/*
-
-        
-        
-
-*/
-
 export default function Home()
 {
   return (
@@ -26,12 +19,7 @@ export default function Home()
         <HomeSection />
         <Section2 />
         <Section3 />
-        <Section4 />
-        <Section5 />
-        <Section6 />        
-        <Section7 />
-        <Section8 />
-        <Section9 />
+        <Section4 />      
         <Footer />
       </main>
     </>

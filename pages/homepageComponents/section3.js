@@ -10,7 +10,7 @@ export default function Section3()
 {
     return (
         <>
-            <section id="section3" className="flex place-items-center justify-around min-h-screen h-fit bg-fixed bg-center bg-cover bg-[url('/images/bg/13.jpg')]">
+            <section id="section3" className="flex place-items-center justify-around min-h-screen h-fit bg-fixed bg-center bg-cover bg-[url('/images/bg/tokenomics.webp')]">
                 <div className="text-center">
                     <div className="box-cont h-fit w-fit px-14 mb-10 py-8 shadow-md bg-gradient-to-r from-neutral-900 rounded-lg">
                         <h2 className="text-white font-bold">🌍 Rhoncus odio</h2>

@@ -311,7 +311,7 @@ export default function PresaleManager()
     {
         return (
             <>
-                <section className="parallaxOne" data-parallax="scroll" data-image-src="images/bg/20.jpg" data-bleed="10">
+                <section className="parallaxOne" data-parallax="scroll" data-image-src="images/bg/PresaleBanner.png" data-bleed="10">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-4">

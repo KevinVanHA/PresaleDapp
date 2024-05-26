@@ -12,7 +12,7 @@ export default function HomeSection()
     return (
         <>
             {/* PARALLAX ONE START */}
-            <section id="home" className="flex items-center justify-center h-fit min-h-screen bg-fixed bg-center bg-cover bg-[url('/images/bg/16.jpg')]">
+            <section id="home" className="flex items-center justify-center h-fit min-h-screen bg-fixed bg-center bg-cover bg-[url('/images/bg/soliconbanner.png')]">
                 <div className="container mx-auto text-center mt-[100px] md:mt-0">
                     <h5 className="uppercase text-white font-bold">Lorem ipsum dolor sit amet</h5>
                     <h2 className="uppercase lead text-white font-bold">consectetur adipiscing elit</h2>

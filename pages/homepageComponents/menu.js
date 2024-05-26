@@ -31,46 +31,22 @@ export default function Menu()
                     <Navbar.Link
                         className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
                         href="#section2">
-                        Section2
+                        About us
                     </Navbar.Link>
                     <Navbar.Link
                         className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
                         href="#section3">
-                        Section3
+                        Tokenomics
                     </Navbar.Link>
                     <Navbar.Link
                         className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
                         href="#section4">
-                        Section4
+                        Roadmap
                     </Navbar.Link>
-                    <Navbar.Link
-                        className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
-                        href="#section5">
-                        Section5
-                    </Navbar.Link>
-                    <Navbar.Link
-                        className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
-                        href="#section6">
-                        Section6
-                    </Navbar.Link>
-                    <Navbar.Link
-                        className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
-                        href="#section7">
-                        Section7
-                    </Navbar.Link>
-                    <Navbar.Link
-                        className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
-                        href="#section8">
-                        Section8
-                    </Navbar.Link>
-                    <Navbar.Link
-                        className="uppercase block py-2 pr-4 pl-3 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-700 md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700"
-                        href="#section9">
-                        Section9
-                    </Navbar.Link>
+                    
                 </Navbar.Collapse>
             </Navbar>
-            {/* Menu END */}
+           
         </>
     )
 }

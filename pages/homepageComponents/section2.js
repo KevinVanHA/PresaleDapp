@@ -11,7 +11,7 @@ export default function Section2()
     return (
         <>
             {/* PARALLAX TWO START */}
-            <section id="section2" className="flex items-center justify-center h-fit min-h-screen bg-fixed bg-center bg-cover bg-[url('/images/bg/12.jpg')]">
+            <section id="section2" className="flex items-center justify-center h-fit min-h-screen bg-fixed bg-center bg-cover bg-[url('/images/bg/asset2.webp')]">
                 <div className="text-center">
                     <div className="box-cont h-fit w-fit mt-[10%] px-14 mb-10 py-8 shadow-md bg-gradient-to-r from-neutral-900 rounded-lg">
                         <h5 className="uppercase text-red-600 font-bold">Ac tellus dapibus:</h5>
