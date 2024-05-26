@@ -10,8 +10,8 @@ export default function Section4()
                     <div className="text-left">
                         <div className="box-cont h-fit w-fit px-14 mb-10 py-8 shadow-md bg-gradient-to-r from-neutral-900 rounded-lg">
                             <h3 className="text-white font-bold">
-                                🚀 Vestibulum venenatis vel elit  <br />
-                                non congue.
+                                🚀 Buy SVB NOW  <br />
+                                
                             </h3>
                             <p className="text-white"><strong>1) </strong> Pellentesque dapibus</p>
                             <p className="text-white"><strong>2) </strong> Luctus lacus et pharetra</p>
